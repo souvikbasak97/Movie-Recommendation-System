@@ -1,7 +1,5 @@
 # Movie Recommendation Engine
 
-**Complete Video Tutorial:** https://youtu.be/Dw9_BQ60ERU
-
 # Dataset Information
 
 The dataset contains the top 250 movies from IMDB with 27 attributes like Title, Director, Genre, Plot, Ratings, etc.,
